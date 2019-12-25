@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\luv2code\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+930347170.index
+3585782091.index
+2330596823.index
+1871767342.index
+3617312122.index
+3406804311.index
+2884291122.index
+3544993186.index

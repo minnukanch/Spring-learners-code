@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\luv2code\spring-demo-annotations"/>
+		<item value="C:\luv2code\eclipse-workspace"/>
+		<item value="C:\luv2code\eclipse-workspace\spring-demo-one"/>
+		<item value="C:\luv2code\spring-mvc-demo"/>
+	</list>
+</section>
